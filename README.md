@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivian.
 - 👀 I’m interested in learning new skills.
-- 🌱 I’m currently learning javascript and web develop.
+- 🌱 I’m a frontend developer, proficient in React, JavaScript, HTML, CSS, Node.js, Express and Python.
 - 📫 How to reach me 
       emil: xoweiox@gmail.com
 
